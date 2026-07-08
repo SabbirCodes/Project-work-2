@@ -277,17 +277,6 @@ CLOUDINARY_URL=your_cloudinary_url
 
 ---
 
-## Roadmap
-
-- [ ] Social features (follow friends, share workouts)
-- [ ] AI-generated workout plans based on user goals
-- [ ] Mobile app (React Native) sharing the same API
-- [ ] Wearable device integration (Apple Health / Google Fit)
-- [ ] Leaderboards and challenges
-- [ ] Push notifications for workout reminders
-
----
-
 ## Scripts
 
 ```bash
